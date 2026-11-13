@@ -1,0 +1,5 @@
+Intenta extraer una pila vacía, eliminar un valor inexistente, conectar vértices no creados y añadir un hijo con padre desconocido. Anota los mensajes.
+Vertices inexistente: "Primero crea ambos vértices"
+sin agregar padre: "El padre debe existir"
+extraer pila vacia: "Pila vacía"
+eliminar valor inexistente: "Cola vacía"
