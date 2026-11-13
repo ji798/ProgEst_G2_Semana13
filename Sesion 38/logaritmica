@@ -1,0 +1,8 @@
+def divisiones_entre_dos(n):
+    pasos = 0
+    while n > 1:
+        n = n // 2      # el problema se reduce a la mitad en cada vuelta
+        pasos += 1
+    return pasos
+
+print(divisiones_entre_dos(1000))   # 9  → ¡solo 9 pasos para 1000!
